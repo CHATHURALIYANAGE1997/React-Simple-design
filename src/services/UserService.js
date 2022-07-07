@@ -1,12 +1,12 @@
 import axios from 'axios';
 
-// const EMPLOYEE_API_BASE_URL = "http://localhost:3000";
-// const EMPLOYEE_API_BASE_URL1 = "http://localhost:3000/home";
+// const API_BASE_URL = "http://localhost:3000";
+// const API_BASE_URL1 = "http://localhost:3000/home";
 
 class UserService {
 
 //     homeview(){
-//         return axios.get(EMPLOYEE_API_BASE_URL1);
+//         return axios.get(API_BASE_URL1);
 //     }
 }
 
